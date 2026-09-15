@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Arjun's Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Arjun</h1>
+    <p>B.Tech CSE Student</p>
+
+    <nav>
+        <a href="#about">About</a> |
+        <a href="#education">Education</a> |
+        <a href="#skills">Skills</a> |
+        <a href="#projects">Projects</a> |
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<main>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>
+        I am Arjun, a B.Tech Computer Science Engineering student.
+        I am interested in programming and web development.
+    </p>
+</section>
+
+<section id="education">
+    <h2>Education</h2>
+    <p>B.Tech in Computer Science and Engineering</p>
+</section>
+
+<section id="skills">
+    <h2>Skills</h2>
+    <ul>
+        <li>Python</li>
+        <li>HTML</li>
+    </ul>
+</section>
+
+<section id="projects">
+    <h2>Projects</h2>
+    <ul>
+        <li>HTML Portfolio Website</li>
+        <li>Other HTML Projects</li>
+    </ul>
+</section>
+
+<section id="contact">
+    <h2>Contact Me</h2>
+    <p>Phone: 9373046504</p>
+</section>
+
+</main>
+
+<footer>
+    <p>© 2026 Arjun. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
